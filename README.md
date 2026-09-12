@@ -34,7 +34,7 @@ same hex dump together at 3am more times than any human should have to.
 
 ## 🔍 How I Work
 
-- Find the real offset myself. Never trust a forum post or a trainer.
+- Find the real offset with AI, together. Never trust a forum post or a trainer.
 - Diagnostic first, patch second. Guessing is how you get a worse crash.
 - Ship it OFF by default until it's actually proven safe.
 - If a fix isn't safe, the honest answer is "no safe fix yet," not a hack
